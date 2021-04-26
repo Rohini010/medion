@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096191981807",
+    "project_id": "medionpro-1b29e",
+    "storage_bucket": "medionpro-1b29e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096191981807:android:fe5108b415175c8547431a",
+        "android_client_info": {
+          "package_name": "com.example.medion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096191981807-idllui3pu0qhmm754c5isje7sq821ufk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYTo_rITdr2OicIFx4MamhKQGsn0DIE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096191981807-idllui3pu0qhmm754c5isje7sq821ufk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
